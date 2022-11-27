@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ubuntu/Documents/seqrust/seqrust/target/debug/build/typenum-901bdf39b7d425f8/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ubuntu/Documents/seqrust/seqrust/target/debug/build/typenum-901bdf39b7d425f8/out/op.rs
